@@ -75,7 +75,6 @@ class Main extends React.Component {
            skill.map(skill => (
              <div className="col little-img" key={skill.id}>
                <i className= {skill.icon} /><br />
-               {skill.name}<br />
             </div>
            ))
            }
