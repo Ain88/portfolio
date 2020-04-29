@@ -17,7 +17,7 @@ class Header extends React.Component {
           <div key={person.id}>
           <div className="row">
           <div className="zoom col-sm-6 align-left">
-            <h4 className="head-link"><a href="https://ain88.github.io/" className="custom-a">{person.name}</a></h4><h4>
+            <h4 className="head-link"><a href="https://ain88.github.io/portfolio/" className="custom-a">{person.name}</a></h4><h4>
             </h4></div>
           <div className="zoom col-sm-6 align-right">
             <h4 className="head-link"><a href={person.resume} className="custom-a">Resume</a></h4><h4>
