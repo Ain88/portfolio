@@ -58,7 +58,7 @@ const project = [
     {
       "id": 4,
       "imgUrl": "img/project-react-portfolio.png",
-      "aHref": "https://ain88.github.io/portfolio-react/",
+      "aHref": "https://ain88.github.io/portfolio/",
       "name": "Portfolio",
       "desc": "React, Bootstrap",
       "desc2": "Portfolio webpage using react,bootstrap, made it re-usable."
