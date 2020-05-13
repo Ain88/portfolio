@@ -70,6 +70,14 @@ const project = [
       "name": "Express Food Order",
       "desc": "Mysql",
       "desc2": "Food order system database with class diagram, mysql"
+    },
+    {
+      "id": 6,
+      "imgUrl": "img/project-move-groove.png",
+      "aHref": "https://move-groove-rails.herokuapp.com/",
+      "name": "Move & Groove",
+      "desc": "Ruby on Rails",
+      "desc2": "Activity tracker built with Ruby on rails"
     }
 ];
 
