@@ -122,12 +122,12 @@
 
 @media only screen and (max-width: 1000px) {
   .container {
-    padding: 1rem 1rem;
+    padding: 0.5rem;
     margin: 0.5rem;
   }
 
   h2 {
-    font-size: 0.7rem;
+    font-size: 1.5rem;
   }
 
   .portfolio-img {
