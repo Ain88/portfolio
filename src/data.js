@@ -22,11 +22,6 @@ const social = [
     "href": "https://ca.linkedin.com/in/ahyoung-in-315073159",
     "className": "fab fa-linkedin"
 
-    },
-    {
-    "id": 3,
-    "href": "https://www.facebook.com/ahyoung.in.9",
-    "className": "fab fa-facebook-square"
     }
 ];
 
