@@ -31,7 +31,7 @@ const project = [
       "imgUrl": "img/project-sddocs.png",
       "aHref": "https://docs.sdcloudpos.com",
       "name": "User Manual Web App",
-      "desc": "Asp.net Core, C#, Html, Css",
+      "desc": "Asp.net Core, C#, Microsoft SQL",
       "desc2": "Built user manual web application and admin page using asp.net core."
     },
     {
@@ -45,58 +45,58 @@ const project = [
     {
       "id": 3,
       "imgUrl": "img/project-ampmwebsite.png",
-      "aHref": "https://icecream-museum.herokuapp.com/",
-      "name": "Icecream Museum",
-      "desc": "Bootstrap, Web page design",
-      "desc2": "Re-designed."
+      "aHref": "https://www.ampmservice.com",
+      "name": "Company Website",
+      "desc": "Asp.net Core, Bootstrap, Web page design",
+      "desc2": "Re-designed company website."
     },
     {
       "id": 4,
       "imgUrl": "img/project-ampm-localexpress.png",
       "aHref": "https://ain88.github.io/portfolio/",
       "name": "Portfolio",
-      "desc": "React, Bootstrap",
-      "desc2": "Portfolio webpage using react,bootstrap, made it re-usable."
+      "desc": "React, Bootstrap, Html, Css",
+      "desc2": "Created company landing page."
     },
     {
       "id": 5,
       "imgUrl": "img/project-supremebanners.png",
-      "aHref": "./img/mysql-diagram.png",
-      "name": "Express Food Order",
-      "desc": "Mysql",
-      "desc2": "Food order system database with class diagram, mysql"
+      "aHref": "http://supremebanners.com",
+      "name": "Supreme Banners Website",
+      "desc": "Bootstrap, Html, Css, Javascript, Mysql",
+      "desc2": "Banner website for customer"
     },
     {
       "id": 6,
       "imgUrl": "img/project-vector3.png",
-      "aHref": "https://move-groove-rails.herokuapp.com/",
-      "name": "Move & Groove",
-      "desc": "Ruby on Rails",
-      "desc2": "Activity tracker built with Ruby on rails"
+      "aHref": "https://vector3.ca",
+      "name": "Website for Metaverse",
+      "desc": "Bootstrap, Javascript",
+      "desc2": "Website for virtual space (Metaverse)"
     },
     {
       "id": 7,
       "imgUrl": "img/project-cannabis-coupon.png",
-      "aHref": "https://ain88.github.io/portfolio/",
-      "name": "Portfolio",
-      "desc": "React, Bootstrap",
-      "desc2": "Portfolio webpage using react,bootstrap, made it re-usable."
+      "aHref": "https://www.cannabiscoupons.ca",
+      "name": "Cannabis Coupons.ca",
+      "desc": "Html, Css, Javascript, Mysql",
+      "desc2": "Website for Cannabis Coupons."
     },
     {
       "id": 8,
       "imgUrl": "img/project-estwestmeds.png",
-      "aHref": "./img/mysql-diagram.png",
-      "name": "Express Food Order",
-      "desc": "Mysql",
-      "desc2": "Food order system database with class diagram, mysql"
+      "aHref": "https://www.eastwestmeds.com",
+      "name": "Cannabis Online Store",
+      "desc": "Magento, Php",
+      "desc2": "Built Cannabis Website using Magento."
     },
     {
       "id": 9,
       "imgUrl": "img/project-fedroc-holdings.png",
-      "aHref": "https://move-groove-rails.herokuapp.com/",
-      "name": "Move & Groove",
-      "desc": "Ruby on Rails",
-      "desc2": "Activity tracker built with Ruby on rails"
+      "aHref": "https://www.fedrocholdings.com",
+      "name": "Company Website",
+      "desc": "Html, Css, Javascript",
+      "desc2": "Created one page company website."
     },
     {
       "id": 10,
