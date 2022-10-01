@@ -68,7 +68,7 @@ const project = [
     },
     {
       "id": 6,
-      "imgUrl": "img/project-vector3.png",
+      "imgUrl": "img/project-vectorca.png",
       "aHref": "https://vector3.ca",
       "name": "Website for Metaverse",
       "desc": "Bootstrap, Javascript",
@@ -84,7 +84,7 @@ const project = [
     },
     {
       "id": 8,
-      "imgUrl": "img/project-estwestmeds.png",
+      "imgUrl": "img/project-eastwestmeds.png",
       "aHref": "https://www.eastwestmeds.com",
       "name": "Cannabis Online Store",
       "desc": "Magento, Php",
