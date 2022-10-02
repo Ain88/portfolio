@@ -53,8 +53,8 @@ const project = [
     {
       "id": 4,
       "imgUrl": "img/project-ampm-localexpress.png",
-      "aHref": "https://ain88.github.io/portfolio/",
-      "name": "Portfolio",
+      "aHref": "https://ain88.github.io/local-express",
+      "name": "Company Landing Page",
       "desc": "React, Bootstrap, Html, Css",
       "desc2": "Created company landing page."
     },
