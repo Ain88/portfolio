@@ -6,7 +6,7 @@ const person = [
     "desc2": "Vancouver, BC",
     "flag": "./img/canada-flag.jpg",
     "resume": "./img/resume.pdf",
-    "email": "ahyoung.in@hotmail.com",
+    "email": "ahyoung.in@gmail.com",
     "desc3": "I have a passion on web development, design, or creating learning anything new. I have worked and studied in various fields which enhance my characteristics and availability to apply my creativity in web development. Reliability, honesty are my best policy."
     }
   ];
@@ -52,22 +52,6 @@ const project = [
     },
     {
       "id": 4,
-      "imgUrl": "img/project-ampm-localexpress.png",
-      "aHref": "https://ain88.github.io/local-express",
-      "name": "Company Landing Page",
-      "desc": "React, Bootstrap, Html, Css",
-      "desc2": "Created company landing page."
-    },
-    {
-      "id": 5,
-      "imgUrl": "img/project-supremebanners.png",
-      "aHref": "http://supremebanners.com",
-      "name": "Supreme Banners Website",
-      "desc": "Bootstrap, Html, Css, Javascript, Mysql",
-      "desc2": "Banner website for customer"
-    },
-    {
-      "id": 6,
       "imgUrl": "img/project-vectorca.png",
       "aHref": "https://vector3.ca",
       "name": "Website for Metaverse",
@@ -75,7 +59,7 @@ const project = [
       "desc2": "Website for virtual space (Metaverse)"
     },
     {
-      "id": 7,
+      "id": 5,
       "imgUrl": "img/project-cannabis-coupon.png",
       "aHref": "https://www.cannabiscoupons.ca",
       "name": "Cannabis Coupons.ca",
@@ -83,7 +67,7 @@ const project = [
       "desc2": "Website for Cannabis Coupons."
     },
     {
-      "id": 8,
+      "id": 6,
       "imgUrl": "img/project-eastwestmeds.png",
       "aHref": "https://www.eastwestmeds.com",
       "name": "Cannabis Online Store",
@@ -91,7 +75,7 @@ const project = [
       "desc2": "Built Cannabis Website using Magento."
     },
     {
-      "id": 9,
+      "id": 7,
       "imgUrl": "img/project-fedroc-holdings.png",
       "aHref": "https://www.fedrocholdings.com",
       "name": "Company Website",
@@ -99,15 +83,7 @@ const project = [
       "desc2": "Created one page company website."
     },
     {
-      "id": 10,
-      "imgUrl": "img/project-film-festival.png",
-      "aHref": "https://ain88.github.io/film-festival/",
-      "name": "Boston Film Festival",
-      "desc": "Html, Css, Web design",
-      "desc2": "Built film festival website using bootstrap/html/css."
-    },
-    {
-      "id": 11,
+      "id": 8,
       "imgUrl": "img/project-luxury.png",
       "aHref": "https://dev-luxury-chalets-2019.pantheonsite.io/home/",
       "name": "Luxury Charlets",
@@ -115,7 +91,7 @@ const project = [
       "desc2": "Real estate website using wordpress, modified and applied a theme and plugin accordigly."
     },
     {
-      "id": 12,
+      "id": 9,
       "imgUrl": "img/project-ice-cream.png",
       "aHref": "https://icecream-museum.herokuapp.com/",
       "name": "Icecream Museum",
@@ -123,7 +99,7 @@ const project = [
       "desc2": "Single page html bootstrap theme displaying information of ice cream museum."
     },
     {
-      "id": 13,
+      "id": 10,
       "imgUrl": "img/project-react-portfolio.png",
       "aHref": "https://ain88.github.io/portfolio/",
       "name": "Portfolio",
@@ -131,7 +107,7 @@ const project = [
       "desc2": "Portfolio webpage using react,bootstrap, made it re-usable."
     },
     {
-      "id": 14,
+      "id": 11,
       "imgUrl": "img/project-expressfood.png",
       "aHref": "./img/mysql-diagram.png",
       "name": "Express Food Order",
@@ -139,7 +115,7 @@ const project = [
       "desc2": "Food order system database with class diagram, mysql"
     },
     {
-      "id": 15,
+      "id": 12,
       "imgUrl": "img/project-move-groove.png",
       "aHref": "https://move-groove-rails.herokuapp.com/",
       "name": "Move & Groove",
