@@ -38,6 +38,7 @@
   },
   "homepage": "https://ain88.github.io/portfolio",
   "devDependencies": {
-    "gh-pages": "^2.2.0"
+    "gh-pages": "^2.2.0",
+    "sass": "^1.55.0"
   }
 }

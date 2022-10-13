@@ -1,0 +1,16 @@
+$font-family_1: "Montserrat";
+$font-family_2: "Open Sans";
+
+body {
+  padding: 1rem;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: $font-family_1;
+  font-weight: 1.5rem;
+}
+
+h6, p {
+  font-family: $font-family_2;
+  font-weight: 1.5rem;
+}

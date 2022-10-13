@@ -160,6 +160,11 @@
       "id": 7,
       "icon": "fas fa-database fabfab",
       "name": "Mysql"
+    },
+    {
+      "id": 8,
+      "icon": "fab fa-wix fabfab",
+      "name": "Wix"
     }
   ]
 }
