@@ -1,27 +1,14 @@
 import React from 'react';
-import {person, social, project, skill} from './data.js';
 import Mailto from 'react-protected-mailto';
 
-class Main extends React.Component {
-  constructor(props){
-       super(props);
-       this.state = {
-           person : person,
-           social : social,
-           project : project,
-           skill : skill
-       };
-   }
-
-   render() {
-     const {person, social, project, skill} = this.state;
+export default function Main(props) {
      return(
        <div>
        <div className="container padding-xtratop">
          <div className="row">
            <div className="col-sm-6">
            {
-           person.map(person => (
+           props.person?.map(person => (
              <div key={person.id}>
                  <h2 className="name">Hi there, I am {person.name}.</h2>
                  <h2 className="desc1">I am a {person.desc1}.</h2>
@@ -35,7 +22,7 @@ class Main extends React.Component {
              <nav className="navbar navbar-expand navbar-custom">
                <ul className="navbar-nav">
                  {
-                 social.map(social => (
+                 props.social?.map(social => (
                       <li className="nav-item" key={social.id}><a className="nav-link icon-custom" href={social.href}><i className={social.className} /></a></li>
                  ))
                  }
@@ -54,7 +41,7 @@ class Main extends React.Component {
          <h2>Recent Projects</h2>
          <div className="row padding-lesstop">
            {
-           project.map(project => (
+           props.project?.map(project => (
              <div className="col-sm-4" key={project.id} style={{paddingLeft: 0}}>
                <a href={project.aHref}><img className="portfolio-img" src={project.imgUrl} alt=""  /></a>
                <h6 className="padding-littletop">{project.name}</h6>
@@ -72,7 +59,7 @@ class Main extends React.Component {
        <div className="row padding-lessleft">
 
            {
-           skill.map(skill => (
+           props.skill?.map(skill => (
              <div className="col little-img" key={skill.id}>
                <i className= {skill.icon} /><br />
             </div>
@@ -85,7 +72,7 @@ class Main extends React.Component {
      <div className="container padding-xtratop">
        <h2>Get in Touch</h2>
          {
-         person.map(person => (
+         props.person?.map(person => (
            <div key={person.id}>
            <div className="row padding-lesstop">
              <h6>Hi there, are you looking to hire {person.desc1} or have a project in mind? Please email me and lets talk.</h6>
@@ -100,6 +87,3 @@ class Main extends React.Component {
 
        </div> );
        }
-       }
-
-export default Main;

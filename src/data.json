@@ -1,7 +1,8 @@
-const person = [
+{
+  "person" : [
     {
     "id": 1,
-  	"name": "Ahyoung In",
+    "username": "Ahyoung In",
     "desc1": "web developer",
     "desc2": "Vancouver, BC",
     "flag": "./img/canada-flag.jpg",
@@ -9,9 +10,9 @@ const person = [
     "email": "ahyoung.in@gmail.com",
     "desc3": "I have a passion on web development, design, or creating learning anything new. I have worked and studied in various fields which enhance my characteristics and availability to apply my creativity in web development. Reliability, honesty are my best policy."
     }
-  ];
+  ],
 
-const social = [
+  "social" : [
     {
     "id": 1,
     "href": "https://github.com/Ain88",
@@ -19,13 +20,13 @@ const social = [
     },
     {
     "id": 2,
-    "href": "https://ca.linkedin.com/in/ahyoung-in-315073159",
+    "href": "https://ca.linkedin.com/in/ahyoung-in",
     "className": "fab fa-linkedin"
 
     }
-];
+  ],
 
-const project = [
+  "project" : [
     {
       "id": 1,
       "imgUrl": "img/project-sddocs.png",
@@ -122,9 +123,9 @@ const project = [
       "desc": "Ruby on Rails",
       "desc2": "Activity tracker built with Ruby on rails"
     }
-];
+  ],
 
-const skill = [
+  "skill" : [
     {
       "id": 1,
       "icon": "fab fa-html5 fabfab",
@@ -164,7 +165,6 @@ const skill = [
       "id": 8,
       "icon": "fab fa-wix fabfab",
       "name": "Wix"
-    },
-];
-
-export {person, social, project, skill};
+    }
+  ]
+}
