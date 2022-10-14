@@ -1,7 +1,7 @@
-$color_1: #3C4044;
-$color_2: black;
-$color_3: #E06666;
-$color_4: #B35252;
+$color_gray: #3C4044;
+$color_black: black;
+$color_peach: #E06666;
+$color_red: #B35252;
 
 .container {
 	padding: 2rem 4rem;
@@ -21,11 +21,11 @@ $color_4: #B35252;
 	margin-bottom: 70px;
 }
 .custom-a {
-	color: $color_1;
+	color: $color_gray;
 	text-decoration: none;
 	display: block;
 	&:hover {
-		color: $color_2;
+		color: $color_black;
 		text-decoration: none;
 	}
 }
@@ -33,9 +33,9 @@ $color_4: #B35252;
 	padding-top: 10px;
 }
 .icon-custom {
-	color: $color_3;
+	color: $color_peach;
 	&:hover {
-		color: $color_4;
+		color: $color_red;
 	}
 }
 .padding-xtratop {
