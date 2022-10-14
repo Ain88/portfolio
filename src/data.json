@@ -31,8 +31,8 @@
       "id": 1,
       "imgUrl": "img/project-sddocs.png",
       "aHref": "https://docs.sdcloudpos.com",
-      "name": "User Manual Web App",
-      "desc": "Asp.net Core, C#, Microsoft SQL",
+      "name": "User Manual Web Application",
+      "desc": "Asp.net Core, C#, Microsoft SQL, Javascript, Html, Css",
       "desc2": "Built user manual web application and admin page using asp.net core."
     },
     {
@@ -40,86 +40,62 @@
       "imgUrl": "img/project-ampm-ppc.png",
       "aHref": "https://www.ampmservice.com/ppc-pos",
       "name": "Company Landing Page",
-      "desc": "Asp.net Core, Javascript, Html, Css",
+      "desc": "Asp.net Core, C#, Microsoft SQL, Javascript, Html, Css",
       "desc2": "Created company landing page."
     },
     {
       "id": 3,
-      "imgUrl": "img/project-ampmwebsite.png",
-      "aHref": "https://www.ampmservice.com",
-      "name": "Company Website",
-      "desc": "Asp.net Core, Bootstrap, Web page design",
-      "desc2": "Re-designed company website."
-    },
-    {
-      "id": 4,
       "imgUrl": "img/project-vectorca.png",
       "aHref": "https://vector3.ca",
-      "name": "Website for Metaverse",
-      "desc": "Bootstrap, Javascript",
+      "name": "Metaverse Website",
+      "desc": "Bootstrap, Javascript, Html, Css, Php",
       "desc2": "Website for virtual space (Metaverse)"
     },
     {
-      "id": 5,
+      "id": 4,
       "imgUrl": "img/project-cannabis-coupon.png",
       "aHref": "https://www.cannabiscoupons.ca",
-      "name": "Cannabis Coupons.ca",
+      "name": "Cannabis Coupons Website",
       "desc": "Html, Css, Javascript, Mysql",
       "desc2": "Website for Cannabis Coupons."
     },
     {
-      "id": 6,
-      "imgUrl": "img/project-eastwestmeds.png",
-      "aHref": "https://www.eastwestmeds.com",
-      "name": "Cannabis Online Store",
-      "desc": "Magento, Php",
-      "desc2": "Built Cannabis Website using Magento."
-    },
-    {
-      "id": 7,
-      "imgUrl": "img/project-fedroc-holdings.png",
-      "aHref": "https://www.fedrocholdings.com",
-      "name": "Company Website",
-      "desc": "Html, Css, Javascript",
-      "desc2": "Created one page company website."
-    },
-    {
-      "id": 8,
+      "id": 5,
       "imgUrl": "img/project-luxury.png",
       "aHref": "https://dev-luxury-chalets-2019.pantheonsite.io/home/",
-      "name": "Luxury Charlets",
-      "desc": "Wordpress, Web development",
+      "name": "Luxury Charlets Real Estate",
+      "desc": "Wordpress",
       "desc2": "Real estate website using wordpress, modified and applied a theme and plugin accordigly."
     },
     {
-      "id": 9,
+      "id": 6,
       "imgUrl": "img/project-ice-cream.png",
       "aHref": "https://icecream-museum.herokuapp.com/",
       "name": "Icecream Museum",
-      "desc": "Bootstrap, Web page design",
+      "desc": "Bootstrap, Html, Css",
       "desc2": "Single page html bootstrap theme displaying information of ice cream museum."
     },
     {
-      "id": 10,
+      "id": 7,
       "imgUrl": "img/project-react-portfolio.png",
       "aHref": "https://ain88.github.io/portfolio/",
-      "name": "Portfolio",
-      "desc": "React, Bootstrap",
+      "name": "React Portfolio",
+      "desc": "React, Bootstrap, Scss, Json",
       "desc2": "Portfolio webpage using react,bootstrap, made it re-usable."
     },
     {
-      "id": 11,
+      "id": 8,
       "imgUrl": "img/project-expressfood.png",
       "aHref": "./img/mysql-diagram.png",
-      "name": "Express Food Order",
+      "name": "Express Food Order Diagram",
       "desc": "Mysql",
       "desc2": "Food order system database with class diagram, mysql"
     },
     {
-      "id": 12,
+      "id": 9,
       "imgUrl": "img/project-move-groove.png",
       "aHref": "https://move-groove-rails.herokuapp.com/",
-      "name": "Move & Groove",
+      "name": "Move & Groove Activity Tracker",
       "desc": "Ruby on Rails",
       "desc2": "Activity tracker built with Ruby on rails"
     }
