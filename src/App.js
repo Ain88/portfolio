@@ -18,9 +18,10 @@ export default function App(){
     setSkill(data.skill);
   },[]);
 
-  return <div>
+  return (<main>
     <Header person={person} />
     <Main person={person} social={social} project={project} skill={skill} />
     <Footer person={person} />
-  </div>
+  </main>
+  )
 }
