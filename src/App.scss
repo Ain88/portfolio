@@ -73,7 +73,6 @@ body {
 .portfolio-img {
 	height: 180px;
 	border-radius: 5px;
-	border: 1px solid #ddd;
 	width: 100%;
 }
 .little-img {
@@ -128,7 +127,7 @@ main {
     background-color: white;
     border-radius: 1000px;
     transition: margin-left 0.2s ease-in, background-color 0.2s ease-in;
-
+.portfolio-img
     &.toggle-active {
       margin-left: 20px;
     }
@@ -140,6 +139,17 @@ main {
     
   main {
     background-color: #1a202c;
+  }
+
+  #getInTouch a, .custom-a {
+	color: #fff;
+  }
+  #getInTouch a {
+	color: #E06666;
+  }
+
+  img, .main-img, .portfolio-img {
+    opacity: 0.9;
   }
   
   #toggle {
