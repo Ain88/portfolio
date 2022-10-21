@@ -21,14 +21,14 @@ export default function Header(props) {
       <div className="container">
         <div className="row">
           {props.person.map(person => (
-              <div key={person.id} className="zoom col-sm-11">
+              <div key={person.id} className="zoom col-md-11 col-sm-12 col-xs-10">
                 <h4 className="head-link">
                   <a href="https://ain88.github.io/portfolio" className="custom-a">{person.username}</a>
                   <a href={person.resume} className="custom-a float-right">Resume</a>
                 </h4>
               </div>
           ))}
-          <div className="col-sm-1">
+          <div className="col-md-1 col-sm-0 display-m-0">
             <div 
               id="toggle"
               onClick={() => darkMode === false ? setDarkMode(true) : setDarkMode(false)}
