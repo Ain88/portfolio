@@ -12,7 +12,7 @@ export default function Main(props) {
              <div key={person.id}>
                  <h2 className="name">Hi there, I am {person.name}.</h2>
                  <h2 className="desc1">I am a {person.desc1}.</h2>
-                 <h2 className="desc2">residing in {person.desc2}&nbsp; <img src={person.flag} alt="flag" height={45} />
+                 <h2 className="desc2">residing in {person.desc2}&nbsp; <img src={person.flag} alt="flag" height={30} />
                  </h2>
                  <div className="add-space"></div>
                  <h6>{person.desc3}</h6>
@@ -69,7 +69,7 @@ export default function Main(props) {
      </div>
      <hr />
 
-     <div className="container padding-xtratop">
+     <div id="getInTouch" className="container padding-xtratop">
        <h2>Get in Touch</h2>
          {
          props.person?.map(person => (

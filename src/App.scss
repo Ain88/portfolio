@@ -73,7 +73,6 @@ body {
 .portfolio-img {
 	height: 180px;
 	border-radius: 5px;
-	border: 1px solid #ddd;
 	width: 100%;
 }
 .little-img {
@@ -141,6 +140,17 @@ main {
   main {
     background-color: #1a202c;
   }
+
+  #getInTouch a, .custom-a {
+	color: #fff;
+  }
+  #getInTouch a {
+	color: #E06666;
+  }
+
+  img, .main-img, .portfolio-img {
+    opacity: 0.9;
+  }
   
   #toggle {
     background-color: #fff;
@@ -168,6 +178,11 @@ main {
 	}
 	[class*="col-"] {
 		width: 100%;
+	}
+}
+@media only screen and (max-width: 768px) {
+	.display-m-0 {
+		display: none;
 	}
 }
 @media only screen and (max-width: 600px) {
