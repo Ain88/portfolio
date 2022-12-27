@@ -29,22 +29,6 @@
   "project" : [
     {
       "id": 1,
-      "imgUrl": "img/project-mydietwiki.png",
-      "aHref": "https://mydietwiki.com",
-      "name": "Your Diet Wikipedia",
-      "desc": "Wordpress",
-      "desc2": "Built Diet Wikipedia using Wordpress Oxygen builder"
-    },
-    {
-      "id": 2,
-      "imgUrl": "img/project-bartnixcom.png",
-      "aHref": "https://bartnix.com",
-      "name": "Bartnix tech blog",
-      "desc": "Wordpress",
-      "desc2": "Built tech blog using Wordpress Oxygen builder"
-    },
-    {
-      "id": 3,
       "imgUrl": "img/project-sddocs.png",
       "aHref": "https://docs.sdcloudpos.com",
       "name": "User Manual Web Application",
@@ -52,7 +36,7 @@
       "desc2": "Built user manual web application and admin page using asp.net core."
     },
     {
-      "id": 4,
+      "id": 2,
       "imgUrl": "img/project-ampm-ppc.png",
       "aHref": "https://www.ampmservice.com/ppc-pos",
       "name": "Company Landing Page",
@@ -60,7 +44,7 @@
       "desc2": "Created company landing page."
     },
     {
-      "id": 5,
+      "id": 3,
       "imgUrl": "img/project-vectorca.png",
       "aHref": "https://vector3.ca",
       "name": "Metaverse Website",
@@ -68,7 +52,7 @@
       "desc2": "Website for virtual space (Metaverse)"
     },
     {
-      "id": 6,
+      "id": 4,
       "imgUrl": "img/project-cannabis-coupon.png",
       "aHref": "https://www.cannabiscoupons.ca",
       "name": "Cannabis Coupons Website",
@@ -76,7 +60,7 @@
       "desc2": "Website for Cannabis Coupons."
     },
     {
-      "id": 7,
+      "id": 5,
       "imgUrl": "img/project-luxury.png",
       "aHref": "https://dev-luxury-chalets-2019.pantheonsite.io/home/",
       "name": "Luxury Charlets Real Estate",
@@ -84,7 +68,7 @@
       "desc2": "Real estate website using wordpress, modified and applied a theme and plugin accordigly."
     },
     {
-      "id": 8,
+      "id": 6,
       "imgUrl": "img/project-ice-cream.png",
       "aHref": "https://icecream-museum.herokuapp.com/",
       "name": "Icecream Museum",
@@ -92,12 +76,28 @@
       "desc2": "Single page html bootstrap theme displaying information of ice cream museum."
     },
     {
-      "id": 9,
+      "id": 7,
       "imgUrl": "img/project-react-portfolio.png",
       "aHref": "https://ain88.github.io/portfolio/",
       "name": "React Portfolio",
       "desc": "React, Bootstrap, Scss, Json",
       "desc2": "Portfolio webpage using react,bootstrap, made it re-usable."
+    },
+    {
+      "id": 8,
+      "imgUrl": "img/project-expressfood.png",
+      "aHref": "./img/mysql-diagram.png",
+      "name": "Express Food Order Diagram",
+      "desc": "Mysql",
+      "desc2": "Food order system database with class diagram, mysql"
+    },
+    {
+      "id": 9,
+      "imgUrl": "img/project-move-groove.png",
+      "aHref": "https://move-groove-rails.herokuapp.com/",
+      "name": "Move & Groove Activity Tracker",
+      "desc": "Ruby on Rails",
+      "desc2": "Activity tracker built with Ruby on rails"
     }
   ],
 
